@@ -4,7 +4,7 @@
 
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-> A simple crawler project. [Live link]()
+> A simple crawler project.
 
 ## Table of Contents
 
@@ -14,7 +14,6 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Maintainers](#maintainers)
-  - [Contributing](#contributing)
   - [License](#license)
 
 ## Background
@@ -37,13 +36,8 @@ python main.py
 
 ## Maintainers
 
-[@dipto0321](https://github.com/dipto0321)
+[Dipto Karmakar](https://github.com/dipto0321)
 
-## Contributing
-
-
-
-Small note: If editing the README, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
 
 ## License
 
